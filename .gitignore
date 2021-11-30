@@ -1,5 +1,4 @@
-.gradle/
 .idea/
 build/
-*.log
-*.class
+.gradle/
+stats.json
